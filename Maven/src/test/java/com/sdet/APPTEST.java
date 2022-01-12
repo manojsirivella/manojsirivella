@@ -7,7 +7,7 @@ import org.testng.annotations.Test;
 public class APPTEST {
 	
 	@Test
-	//Run | Debug
+	//Runn | Debug
 	public void testlogin1()
 	{
 		App myapp =new App();
