@@ -9,7 +9,7 @@ public class Switch_To_Frame {
 
 	public static void main(String[] args) throws Exception {
 		
-		/*Steps to automate:-->
+		/*Steps to automate:-->vv
 	  		1.Open cleartrip website
 	  		2.Navigate Manage trips webpage
 	  		3.Enter email 
